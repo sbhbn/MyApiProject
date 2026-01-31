@@ -32,3 +32,11 @@
 3. 執行 `dotnet run`
 
 4. 瀏覽 `http://localhost:5065/swagger` 查看 API 文件
+
+
+[
+](https://mail.google.com/mail/u/0?ui=2&ik=8ba2cec2c3&attid=0.0.1&permmsgid=msg-a:r3216820230306426633&th=19656be6253020c3&view=fimg&fur=ip&permmsgid=msg-a:r3216820230306426633&sz=s0-l75-ft&attbid=ANGjdJ-aVUTAqOJJAKMs6tICFKDzGeON10cE4g0IMq_XkpnexL7xoNw8AvhYBT-5PeRK_finEclJI7YSJj5d7vObQHmj8Q1j-yY8nYP-yZq7L9MMf8T77cv23x_V00A&disp=emb&realattid=ii_m9qm68rl1&zw)<img width="1010" height="616" alt="image" src="https://github.com/user-attachments/assets/91c448b9-1652-4f85-9c2c-00893cdbaf51" />
+
+
+
+
