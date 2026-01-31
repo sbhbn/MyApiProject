@@ -1,4 +1,4 @@
-# BankApiProject
+# MyApiProject
 
 電影院停車管理系統 API
 
@@ -30,4 +30,5 @@
 1. 確保已安裝 .NET 8 SDK
 2. 設定資料庫連線字串
 3. 執行 `dotnet run`
+
 4. 瀏覽 `http://localhost:5065/swagger` 查看 API 文件
